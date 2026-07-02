@@ -1,4 +1,4 @@
-# poker_rl
+# BluffNet
 
 A reinforcement learning agent for heads-up No-Limit Texas Hold'em, built from scratch in PyTorch.
 
